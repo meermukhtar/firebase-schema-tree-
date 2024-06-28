@@ -1,0 +1,194 @@
+{
+  "Franchise": {
+    "PlWHmDXVMjO0mebFbotH1AgOZHP2": {
+      "email": "mex@gmail.com",
+      "FrenchiseName": "Vellos",
+      "subcollections": {
+        "OrderCollections": {
+          "xyltgaiiHqZQOJCvS5eH": {
+            "createdAt": {
+              "_seconds": 1719513052,
+              "_nanoseconds": 259125000
+            },
+            "imageProduct": "https://firebasestorage.googleapis.com/v0/b/frenchisee-management.appspot.com/o/images%2F1717867923355.jpg?alt=media&token=e0b917a0-6fc6-4bd4-b02d-038179ced021",
+            "quantity": 3,
+            "productId": "4fyzt7UCOodmTiMhR7FK",
+            "price": "9",
+            "vendorId": "PlWHmDXVMjO0mebFbotH1AgOZHP2",
+            "userId": "AXqpZf5856gZihH9pAheME8UY9i1",
+            "productName": "v2"
+          }
+        },
+        "ProductCollection": {
+          "4fyzt7UCOodmTiMhR7FK": {
+            "imageProduct": "https://firebasestorage.googleapis.com/v0/b/frenchisee-management.appspot.com/o/images%2F1717867923355.jpg?alt=media&token=e0b917a0-6fc6-4bd4-b02d-038179ced021",
+            "price": "9",
+            "description": "ba",
+            "productName": "v2",
+            "productId": "4fyzt7UCOodmTiMhR7FK"
+          },
+          "OT2YoJuAIdRAj3Jz8Tkg": {
+            "imageProduct": "https://firebasestorage.googleapis.com/v0/b/frenchisee-management.appspot.com/o/images%2F1717867942888.jpg?alt=media&token=ef137d67-34a8-4fcb-b5a8-ba8fd99fce77",
+            "price": "8",
+            "description": "nwe",
+            "productName": "v3",
+            "productId": "OT2YoJuAIdRAj3Jz8Tkg"
+          },
+          "YQpkScLqk0GljavSOoVi": {
+            "imageProduct": "https://firebasestorage.googleapis.com/v0/b/frenchisee-management.appspot.com/o/images%2F1719513750425.jpg?alt=media&token=16ba8f5c-dcea-45e2-8fb0-d2ecd306b9f6",
+            "price": "10",
+            "description": "new vello pack",
+            "productName": "mint",
+            "productId": "YQpkScLqk0GljavSOoVi"
+          },
+          "e94vkp4sxRPZUGHNExKz": {
+            "imageProduct": "https://firebasestorage.googleapis.com/v0/b/frenchisee-management.appspot.com/o/images%2F1717867967188.jpg?alt=media&token=40f3f880-0239-4a8b-9cec-cf222d167730",
+            "price": "7",
+            "description": "bq",
+            "productName": "v4",
+            "productId": "e94vkp4sxRPZUGHNExKz"
+          },
+          "qs3ykEue0brc9nl6eukx": {
+            "imageProduct": "https://firebasestorage.googleapis.com/v0/b/frenchisee-management.appspot.com/o/images%2F1717867881136.jpg?alt=media&token=38eab847-3381-4f22-aa4a-7ea233384819",
+            "price": "3",
+            "description": "new",
+            "productName": "v1",
+            "productId": "qs3ykEue0brc9nl6eukx"
+          }
+        }
+      }
+    },
+    "SepJxO6L1oMwzzxulmmVeoyA0Gl1": {
+      "email": "tyre@gmail.com",
+      "FrenchiseName": "Sheikh Tyres",
+      "subcollections": {
+        "OrderCollections": {
+          "E7S737rHx02mOVSUvBKI": {
+            "createdAt": {
+              "_seconds": 1719513053,
+              "_nanoseconds": 185561000
+            },
+            "imageProduct": "https://firebasestorage.googleapis.com/v0/b/frenchisee-management.appspot.com/o/images%2F1717869362595.jpg?alt=media&token=e684c74b-f10a-473c-ad5f-6025ab1bdba9",
+            "quantity": 3,
+            "productId": "O9iZN3hPddkYjaW19fMI",
+            "price": "91",
+            "vendorId": "SepJxO6L1oMwzzxulmmVeoyA0Gl1",
+            "userId": "AXqpZf5856gZihH9pAheME8UY9i1",
+            "productName": "t7"
+          }
+        },
+        "ProductCollection": {
+          "O9iZN3hPddkYjaW19fMI": {
+            "imageProduct": "https://firebasestorage.googleapis.com/v0/b/frenchisee-management.appspot.com/o/images%2F1717869362595.jpg?alt=media&token=e684c74b-f10a-473c-ad5f-6025ab1bdba9",
+            "price": "91",
+            "description": "bq",
+            "productName": "t7",
+            "productId": "O9iZN3hPddkYjaW19fMI"
+          },
+          "Oj2fjfNQ8SMUte35Gvmx": {
+            "imageProduct": "https://firebasestorage.googleapis.com/v0/b/frenchisee-management.appspot.com/o/images%2F1717869402882.jpg?alt=media&token=32c45d19-a95e-453c-ac11-499db88179df",
+            "price": "08",
+            "description": "fy",
+            "productName": "t8",
+            "productId": "Oj2fjfNQ8SMUte35Gvmx"
+          },
+          "fl7MUd1XaRf8rShwrwMb": {
+            "imageProduct": "https://firebasestorage.googleapis.com/v0/b/frenchisee-management.appspot.com/o/images%2F1717869299273.jpg?alt=media&token=a95ee778-5aaa-4ed0-a751-f76048ea2974",
+            "price": "61",
+            "description": "tyre2",
+            "productName": "t2",
+            "productId": "fl7MUd1XaRf8rShwrwMb"
+          }
+        }
+      }
+    },
+    "hCDcBgxf8cM6ynzBWioO3duzYj43": {
+      "email": "med@gmail.com",
+      "FrenchiseName": "Ahmed Store",
+      "subcollections": {
+        "OrderCollections": {
+          "LiDJDmx05hxPqBEOPcEi": {
+            "createdAt": {
+              "_seconds": 1719513053,
+              "_nanoseconds": 700034000
+            },
+            "imageProduct": "https://firebasestorage.googleapis.com/v0/b/frenchisee-management.appspot.com/o/images%2F1717869099929.jpg?alt=media&token=d590b39f-7380-44b6-8f3a-ed2a268c9686",
+            "quantity": 1,
+            "productId": "2TQqh8zzsMqbLnyrFFgN",
+            "price": "91",
+            "vendorId": "hCDcBgxf8cM6ynzBWioO3duzYj43",
+            "userId": "AXqpZf5856gZihH9pAheME8UY9i1",
+            "productName": "m3"
+          }
+        },
+        "ProductCollection": {
+          "2TQqh8zzsMqbLnyrFFgN": {
+            "imageProduct": "https://firebasestorage.googleapis.com/v0/b/frenchisee-management.appspot.com/o/images%2F1717869099929.jpg?alt=media&token=d590b39f-7380-44b6-8f3a-ed2a268c9686",
+            "price": "91",
+            "description": "hq",
+            "productName": "m3",
+            "productId": "2TQqh8zzsMqbLnyrFFgN"
+          },
+          "9VBCiaUgveyfxKGOyL9P": {
+            "imageProduct": "https://firebasestorage.googleapis.com/v0/b/frenchisee-management.appspot.com/o/images%2F1717869125528.jpg?alt=media&token=e6883792-bd8e-43a0-b45f-e635cd2f21cd",
+            "price": "9",
+            "description": "vq",
+            "productName": "m5",
+            "productId": "9VBCiaUgveyfxKGOyL9P"
+          },
+          "Cj0w8LViZQuFjIuj65RJ": {
+            "imageProduct": "https://firebasestorage.googleapis.com/v0/b/frenchisee-management.appspot.com/o/images%2F1717869074581.jpg?alt=media&token=6e9fb8e2-d2ee-4ad0-b70d-34de8659f253",
+            "price": "6",
+            "description": "med",
+            "productName": "m1",
+            "productId": "Cj0w8LViZQuFjIuj65RJ"
+          },
+          "T98pgQ2Q0XRw5qLQXX2f": {
+            "imageProduct": "https://firebasestorage.googleapis.com/v0/b/frenchisee-management.appspot.com/o/images%2F1717869087420.jpg?alt=media&token=4e2aeedd-d4b0-419e-8f91-aa2bda08db57",
+            "price": "9",
+            "description": "nq",
+            "productName": "m2",
+            "productId": "T98pgQ2Q0XRw5qLQXX2f"
+          }
+        }
+      }
+    },
+    "kYcf6pQ28vcuoDLBQgOWQiQzd4r2": {
+      "email": "mir@gmail.com",
+      "FrenchiseName": "mirBakers",
+      "subcollections": {
+        "ProductCollection": {
+          "02sEdEeQlrYBYTjOMamw": {
+            "imageProduct": "https://firebasestorage.googleapis.com/v0/b/frenchisee-management.appspot.com/o/images%2F1717868728740.jpg?alt=media&token=f4c97ae8-0781-4c1b-afa4-323a65f5e601",
+            "price": "3",
+            "description": "la",
+            "productName": "c1",
+            "productId": "02sEdEeQlrYBYTjOMamw"
+          },
+          "BK9llMTbUCzcvUKIDjUp": {
+            "imageProduct": "https://firebasestorage.googleapis.com/v0/b/frenchisee-management.appspot.com/o/images%2F1717868764766.jpg?alt=media&token=3ee0e22b-f50c-450f-9584-5289ec344654",
+            "price": "9",
+            "description": "la",
+            "productName": "c3",
+            "productId": "BK9llMTbUCzcvUKIDjUp"
+          },
+          "i9foy9Mjek6hC35HXZD0": {
+            "imageProduct": "https://firebasestorage.googleapis.com/v0/b/frenchisee-management.appspot.com/o/images%2F1717868751833.jpg?alt=media&token=821b6fe5-3de6-4ff7-8b09-03c986803bbc",
+            "price": "31",
+            "description": "ka",
+            "productName": "c2",
+            "productId": "i9foy9Mjek6hC35HXZD0"
+          }
+        }
+      }
+    }
+  },
+  "usersProfile": {
+    "AXqpZf5856gZihH9pAheME8UY9i1": {
+      "Username": "pos usman",
+      "phone": "03121561084",
+      "UserId": "AXqpZf5856gZihH9pAheME8UY9i1",
+      "email": "pos@gmail.com"
+    }
+  }
+}
